@@ -1,0 +1,3 @@
+arr=list(map(int,input().split()))
+print("Max =",max(arr))
+print("Min =",min(arr))
