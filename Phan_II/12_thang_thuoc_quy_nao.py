@@ -1,0 +1,6 @@
+m = int(input("Nhap thang: "))
+if 1<=m<=3: print("Quy I")
+elif 4<=m<=6: print("Quy II")
+elif 7<=m<=9: print("Quy III")
+elif 10<=m<=12: print("Quy IV")
+else: print("Khong hop le")

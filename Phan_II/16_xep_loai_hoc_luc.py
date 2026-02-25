@@ -1,0 +1,5 @@
+d = float(input("Nhap diem: "))
+if d<4: print("Yeu")
+elif d<6: print("Trung binh")
+elif d<8: print("Kha")
+else: print("Gioi")
